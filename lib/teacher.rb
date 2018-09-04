@@ -6,5 +6,4 @@ class Teacher < User
     KNOWLEDGE.sample #sample returns one element at random
   end 
 
-  
 end
